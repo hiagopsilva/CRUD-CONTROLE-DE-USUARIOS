@@ -1,0 +1,116 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#form-cadastro {
+    width: 50%; 
+    margin-left: 25%;
+}
+
+#tittle {
+    margin-bottom: 20px;
+}
+
+#tittle-lista {
+    margin-bottom: 20px;
+    margin-left: 40px;
+    
+}
+
+hr {
+    margin-top: -10px;
+}
+
+#espaco {
+    margin-top: 7px;
+    margin-bottom: 20px;
+}
+
+.form-inline {
+    text-align: center;
+    margin: 10px 15px 10px 10px;
+    margin-bottom: 40px;
+}
+
+.box {
+    background: black;
+    width: 400px;
+    height: 320px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    padding: 14px;
+    text-align: center;
+    opacity: 0.9;
+    border-radius: 10px;
+    color: white;
+    padding-top: 50px
+}
+
+#sair {
+    background-image: url(../assets/ceu.jpg);
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#logar {
+    background: black;
+    width: 400px;
+    height: 350px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    padding: 14px;
+    opacity: 0.9;
+    border-radius: 10px;
+    color: white;
+    padding-top: 20px;
+}
+
+#tittleLogin {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.titulo-principal {
+    text-decoration:none;
+    color: black;
+
+}
+
+.titulo-principal :hover {
+    text-decoration:none;
+}
+
+#conteudo {
+    background: black;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    padding: 14px;
+    opacity: 0.9;
+    border-radius: 10px;
+    color: white;
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+#conteudo h1 {
+    text-align: center;
+}
+
+#botao-conteudo {
+    margin-top: 20px;
+    text-align: center;
+}
